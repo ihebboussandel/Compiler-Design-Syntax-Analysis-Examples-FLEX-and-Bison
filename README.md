@@ -1,2 +1,2 @@
-# omputer_theory_tp3
-Simple Examples on computer theory using GNU flex and BOISON 
+# Compiler Design - Syntax Analysis
+Examples With flex and bison creating some basic syntax Analyser 
